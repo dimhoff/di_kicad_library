@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DLPA006
+D Data bus transient suppressor/3-Phase full wave bridge rectifier
+K rectifier acdc tvs
+F https://www.diodes.com/assets/Datasheets/ds30665.pdf
+$ENDCMP
+#
+#End Doc Library
