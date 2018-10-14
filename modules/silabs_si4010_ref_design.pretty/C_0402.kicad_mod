@@ -1,5 +1,5 @@
 (module C_0402 (layer F.Cu) (tedit 5B3606A4)
-  (descr "Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)")
+  (descr "0402 footprints as used in the SiLabs Si4010 reference design RF part")
   (tags "capacitor 0402")
   (attr smd)
   (fp_text reference REF** (at 0 -1.27) (layer F.SilkS)
