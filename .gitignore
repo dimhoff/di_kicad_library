@@ -24,3 +24,7 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# FreeCAD backup files
+*.fcstd1
+*.FCStd1
