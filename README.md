@@ -20,9 +20,9 @@ Model of a surface mounted tactile push butotn I bought on eBay as item
 Number 261995936109 in April 2017. I don't know if the buttons currently sold
 as this item are the same. The image looks different from the buttons I have.
 
-Connector_Molex.3dshapes/Molex_PicoBlade_53048
-----------------------------------------------
-These are models for the Molex PicoBlade 53048 series of connectors.
+Connector_Molex.3dshapes/Molex_PicoBlade_5304{7,8}
+--------------------------------------------------
+These are models for the Molex PicoBlade 53047/53048 series of connectors.
 
 The FreeCAD model is parameterized, allowing one model to be used for the
 various pin counts. The pin count can be changed in the 'propertySheet'.
