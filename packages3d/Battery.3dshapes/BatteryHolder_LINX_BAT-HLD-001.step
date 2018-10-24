@@ -2,8 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
-'/home/david/work/di_kicad_library/modules/packages3d/BatteryHolder_
-LINX_BAT-HLD-001.3dshapes/BatteryHolder_LINX_BAT-HLD-001.step',
+'BatteryHolder_LINX_BAT-HLD-001.step',
   '2018-10-23T14:40:39',('kicad StepUp'),('ksu MCAD'),
   'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));

@@ -2,8 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
-'/home/david/work/di_kicad_library/packages3d/Connector_
-Molex.3dshapes/Molex_PicoBlade_53048_X.step','2018-10-23T16:40:25',(
+'Molex_PicoBlade_53048_X.step','2018-10-23T16:40:25',(
     'kicad StepUp'),('ksu MCAD'),'Open CASCADE STEP processor 7.3',
   'FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
